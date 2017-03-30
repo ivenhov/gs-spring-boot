@@ -1,7 +1,3 @@
-/*
- * Copyright Object Matrix 2017
- */
-
 package hello;
 
 /**
